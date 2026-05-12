@@ -41,9 +41,6 @@
 ## 📊 Mis Estadísticas de GitHub
 
 <div align="center">
-  <a href="https://github.com/francisco-javier00">
-    <img src="https://github-readme-stats.vercel.app/api?username=francisco-javier00&show_icons=true&theme=tokyonight&locale=es&cache_seconds=86400" alt="Estadísticas de Francisco" />
-  </a>
   <br><br>
   <a href="https://github.com/francisco-javier00">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=francisco-javier00&theme=tokyonight&hide_border=true" alt="Racha de GitHub" />
