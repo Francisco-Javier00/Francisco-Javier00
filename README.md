@@ -19,6 +19,7 @@
 - 🔭 Actualmente trabajando en **mis propios proyectos y mejorando mis habilidades.**
 - 🌱 Aprendiendo continuamente sobre **nuevas tecnologías y buenas prácticas de desarrollo.**
 - 💬 Pregúntame sobre **mi trayectoria o lo que has visto en mi web.**
+- 🤖 **Trabajando día a día con IA** para entenderla a fondo, mejorar mis *prompts* y exprimir su potencial en el desarrollo.
 - 📫 Cómo contactarme: Entra a mi **[Portfolio](https://francisco-javier00.github.io/Sobre-mi/)** para saber más sobre mí.
 
 ---
