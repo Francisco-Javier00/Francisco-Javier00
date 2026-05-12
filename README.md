@@ -9,7 +9,7 @@
   <br>
   
   <!-- Aquí puedes poner un banner GIF o una imagen chula si tienes -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Bienvenido%20a%20mi%20GitHub&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Transformando%20café%20en%20código&descAlignY=51&descAlign=62" alt="Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Bienvenido%20a%20mi%20GitHub&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Transformando%20ideas%20en%20código&descAlignY=51&descAlign=62" alt="Banner" width="100%" />
 </div>
 
 ---
