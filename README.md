@@ -18,10 +18,8 @@
 
 - 🔭 Actualmente trabajando en **mis propios proyectos y mejorando mis habilidades.**
 - 🌱 Aprendiendo continuamente sobre **nuevas tecnologías y buenas prácticas de desarrollo.**
-- 👯 Buscando colaborar en **proyectos Open Source o ideas locas.**
 - 💬 Pregúntame sobre **mi trayectoria o lo que has visto en mi web.**
 - 📫 Cómo contactarme: Entra a mi **[Portfolio](https://francisco-javier00.github.io/Sobre-mi/)** para saber más sobre mí.
-- ⚡ Dato curioso: *[Añade aquí un dato gracioso sobre ti, como que tu código compila a la primera solo los martes]*
 
 ---
 
