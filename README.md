@@ -26,7 +26,8 @@
       <p>¡Hola! Me alegra tenerte por aquí. Soy <b>Francisco Javier Martínez Fernández</b>, desarrollador graduado en el <b>Ciclo Superior de DAW</b> (Desarrollo de Aplicaciones Web) en la Escuela Virgen de Guadalupe.</p>
       <ul>
         <li>🔮 <b>Mi Filosofía:</b> Crear interfaces limpias, accesibles y con una experiencia de uso sumamente cuidada. Creo firmemente que un buen código debe ir de la mano con un excelente criterio visual.</li>
-        <li>💼 <b>Experiencia:</b> He colaborado en proyectos reales realizando prácticas en <b>FENLES</b>, adaptando y trasladando plataformas web a nuevos entornos y optimizando su rendimiento general.</li>
+        <li>🌐 <b>Portfolio Personal:</b> Puedes ver mis proyectos en detalle y mi trayectoria interactiva en mi página <b><a href="https://francisco-javier00.github.io/Sobre-mi/">Sobre mí / Portfolio Web</a></b>.</li>
+        <li>💼 <b>Experiencia:</b> He colaborado en proyectos reales realizando prácticas en <b>FENLES</b>, adaptando y tratando plataformas web a nuevos entornos y optimizando su rendimiento general.</li>
         <li>🤖 <b>IA en el Desarrollo:</b> Exprimo al máximo el potencial de la Inteligencia Artificial en mi día a día, mejorando mis workflows, optimizando prompts y acelerando el ciclo de desarrollo.</li>
         <li>📍 <b>Ubicación:</b> Badajoz, España (abierto a oportunidades tanto locales como en remoto).</li>
       </ul>
