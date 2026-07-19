@@ -1,10 +1,10 @@
 # 🔮 ¡Hola! Soy Francisco Javier 👋
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,5046e5,a855f7,0a0b16&height=220&section=header&text=Francisco%20Javier&fontSize=45&animation=fadeIn&fontAlignY=35&desc=T%C3%A9cnico%20Superior%20en%20DAW%20%E2%80%A2%20Frontend&descAlignY=55&descAlign=62" alt="Banner Francisco Javier" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,5046e5,a855f7,0a0b16&height=220&section=header&text=Francisco%20Javier&fontSize=45&animation=fadeIn&fontAlignY=35&desc=T%C3%A9cnico%20Superior%20en%20DAW%20%E2%80%A2%20Fullstack&descAlignY=55&descAlign=62" alt="Banner Francisco Javier" width="100%" />
 
   <br>
 
-  <h3>💻 Técnico Superior en DAW | Desarrollador Frontend</h3>
+  <h3>💻 Técnico Superior en DAW | Desarrollador Fullstack</h3>
   <p><i>"Construyo experiencias digitales con criterio visual, estructura y coherencia."</i></p>
 
   <p>
@@ -33,7 +33,7 @@
     </td>
     <td width="40%" valign="top" align="center">
       <br>
-      <img src="https://github-readme-stats.vercel.app/api?username=francisco-javier00&show_icons=true&theme=tokyonight&locale=es&hide_border=true&title_color=a855f7&icon_color=5046e5&text_color=ffffff&bg_color=0a0b16" alt="Stats de Francisco Javier" width="100%" />
+      <img src="https://github-stats-extended.vercel.app/api?username=francisco-javier00&show_icons=true&theme=tokyonight&locale=es&hide_border=true&title_color=a855f7&icon_color=5046e5&text_color=ffffff&bg_color=0a0b16" alt="Stats de Francisco Javier" width="100%" />
     </td>
   </tr>
 </table>
@@ -125,7 +125,7 @@
     <tr>
       <td align="center" valign="middle" width="50%">
         <a href="https://github.com/francisco-javier00">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francisco-javier00&layout=compact&theme=tokyonight&hide_border=true&title_color=a855f7&icon_color=5046e5&text_color=ffffff&bg_color=0a0b16" alt="Lenguajes más usados" height="195px" />
+          <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=francisco-javier00&layout=compact&theme=tokyonight&hide_border=true&title_color=a855f7&icon_color=5046e5&text_color=ffffff&bg_color=0a0b16" alt="Lenguajes más usados" height="195px" />
         </a>
       </td>
       <td align="center" valign="middle" width="50%">
